@@ -1,2 +1,2 @@
 # CodeAlpha_Email Extractor
-A simple text-based Hangman game developed in Python Programming 
+A simple text-based  Email Extractor developed in Python Programming 
