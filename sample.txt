@@ -1,0 +1,18 @@
+Hi Team,
+I would like to know more about your services.
+For technical support, please contact support@example.com.
+If you have any questions regarding sales, reach out to sales@company.com.
+For job opportunities and recruitment-related queries, contact hr@company.org.
+You may also reach our project manager at manager123@gmail.com for general assistance.
+Thank you for your time.
+Best Regards,
+John Smith
+
+
+
+
+Expexted extracted emails
+support@example.com
+sales@company.com
+hr@company.org
+manager123@gmail.com
